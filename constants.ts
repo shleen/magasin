@@ -1,0 +1,8 @@
+export const COLORS = {
+  WHITE: '#FFFFFF',
+  BLACK: '#000000',
+
+  BEIGE: '#FEFAE0',
+  LIGHTGREEN: '#606C38',
+  DARKGREEN: '#283618',
+};
